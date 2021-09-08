@@ -1,4 +1,4 @@
-package com.vinay.kotlin_coroutine_examples.util
+package  com.vinay.omdbapi.ui.util
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
